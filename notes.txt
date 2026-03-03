@@ -1,6 +1,8 @@
 here you will find git commands 
+git clone URL : to clone a reprsitory
 1.git status : to know about the status about your git if it is committed or not 
 2.code filename.file_extension : to create a new file 
 3.ls : to see list of file 
 4.git add: to add file to the reprsitory before committing it
 5.git commit -m"message" : to commit the file to the github reprsitory
+6.git push origin main : to push the reprsitory to github (it wont show up even if you commit as well you need to do this) 
