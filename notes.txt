@@ -1,0 +1,6 @@
+here you will find git commands 
+1.git status : to know about the status about your git if it is committed or not 
+2.code filename.file_extension : to create a new file 
+3.ls : to see list of file 
+4.git add: to add file to the reprsitory before committing it
+5.git commit -m"message" : to commit the file to the github reprsitory
